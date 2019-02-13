@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8" content="width=device-width,intial-scale=1.0,minimum-scale=1,maximum-scale=1,user-scalable">
+    <meta charset="utf-8" content="width=device-width,intial-scale=1.0,minimum-scale=1,maximum-scale=1,user-scalable=no">
     <link rel="stylesheet" href="./bootstrap-3.3.7-dist/css/bootstrap.min.css">  
     <script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
     <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
